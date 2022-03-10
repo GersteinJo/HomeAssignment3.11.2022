@@ -1,0 +1,11 @@
+{
+    "Age": 25,
+    "Is online?": true,
+    "Marital Status": "engaged",
+    "name": "Janine Minkovski",
+    "relatives": {
+        "Jenifer Allison": "fiancee",
+        "Jonathan Minkovski": "Brother",
+        "Mary Loo Minkovski": "Sister-in-Law"
+    }
+}

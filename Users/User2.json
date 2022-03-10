@@ -1,0 +1,17 @@
+{
+    "Age": 30,
+    "Is online?": true,
+    "Marital Status": "married",
+    "name": "Juan Gomez",
+    "relatives": {
+        "Adrian Gomez": "Brother",
+        "Alexandro Gomez": "Husband",
+        "Camilo Gomez": "Brother",
+        "Carlos Gomez": "Brother",
+        "Jesus Gomez": "Brother",
+        "Julio Gonzales": "Cousin",
+        "Renzo Gomez": "Brother",
+        "Roberto Gomez": "Brother",
+        "Sabrina Gomez": "Sister"
+    }
+}
